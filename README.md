@@ -1,9 +1,10 @@
 # MySQL-零基础学习笔记
 
 opensuse下直接Yast搜索就可以啦！
+
 ubuntu下 sudo apt-get install mysql-server
 
-注：“~>"是终端中，”mysql>”是在mysql中.在mysql中命令以";"结尾！！！
+#注：“~>"是终端中，”mysql>”是在mysql中.在mysql中命令以";"结尾！！！
 
 # 新建数据库abc
 mysql> CREATE DATABASE abc;
